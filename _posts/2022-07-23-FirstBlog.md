@@ -1,5 +1,5 @@
 ---
-title: "First-Blog"
+title: "First Blog"
 date: 2022-07-23
 ---
 
